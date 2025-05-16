@@ -10,4 +10,4 @@
 3. Program3.py: Conditional odd series based on input value.
 4. Program4.py: Counts how many numbers in a list are divisible by 1 to 9.
 
-Make sure Python is installed, then run
+
